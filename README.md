@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Name: Jana Shravin(212224243003)
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -48,6 +48,58 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+#home.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio - Home</title>
+</head>
+<body>
+    <center>
+        <h1>Jana Shravin</h1>
+        <img src="me.jpeg" height="200" width="200">
+        <p>Hello! I am Jana Shravin S. Welcome to my portfolio.</p>
+
+        <a href="about.html">About Me</a> |
+        <a href="contact.html">Contact</a>
+    </center>
+</body>
+</html>
+#about.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <center>
+        <h1>About Me</h1>
+        <p>I am a student interested in programming and web development.</p>
+        <p>I like learning HTML, Python and Data Science.</p>
+
+        <a href="home.html">Home</a> |
+        <a href="contact.html">Contact</a>
+    </center>
+</body>
+</html>
+#contact.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+</head>
+<body>
+    <center>
+        <h1>Contact Me</h1>
+        <p>Email:janashravin140307@gmail.com</p>
+        <p>Phone: 6382464458</p>
+
+        <a href="home.html">Home</a> |
+        <a href="about.html">About Me</a>
+    </center>
+</body>
+</html>
 
 
 ## OUTPUT
